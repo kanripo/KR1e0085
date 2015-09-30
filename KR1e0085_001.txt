@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋胡傳考誤
-#+DATE: 2015-09-23 09:40:18
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:16:10.544089
+#+PROPERTY: ID KR1e0085
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 春秋胡傳考誤
 <pb:KR1e0085_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋胡傳考誤¶
@@ -488,4 +490,3 @@
 　周易而無瑞無之不足為聖人輕也比之河洛簫韶¶
 　而誇大之則陋矣¶
 　春秋胡傳考誤¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋胡傳考誤
-#+DATE: 2015-09-23 09:40:18
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:16:10.524486
+#+PROPERTY: ID KR1e0085
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0085_WYG_000-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋胡傳考誤　　　　　春秋類¶
@@ -34,6 +36,7 @@
 　　　　十六年九月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1e0085_WYG_000-3a>¶
 原序¶
 左氏公羊氏穀梁氏皆傳春秋者也傳未必盡合乎經¶
@@ -46,4 +49,3 @@
 <pb:KR1e0085_WYG_000-3b>¶
 惟胡余懼其沿派而失源也作春秋胡傳考誤知我罪¶
 我亦任之而已袁仁撰¶
-
